@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design"
+  short_description: "Clear, restrained, task-focused product UI"
+  default_prompt: "Use $frontend-design to design a clear, trustworthy interface around the user's primary job."
