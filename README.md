@@ -55,6 +55,8 @@ Install with the Skills CLI:
 npx skills add Junaid-PK/frontend-design-skill
 ```
 
+If the skill earns a place in your workflow, consider starring this repository—it helps other skill users discover it.
+
 The CLI supports Codex, Claude Code, Cursor, GitHub Copilot, Windsurf, Gemini CLI, and other skill-compatible agents.
 
 For a manual Codex installation, copy `frontend-design/` into your personal skills directory:
